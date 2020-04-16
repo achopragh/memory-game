@@ -4,10 +4,10 @@
 | Type| Content | Level | Approximate Time |
 | ---: | :--- | :---: | ---: |
 | | **Day 1** | | |
-| Video | What is open source? Explained in Legos | Beginner | 5 Minutes
-| Video | What is GitHub? | Beginner | 5 Minutes |
-| Course | Introduction to GitHub | Beginner | 75 Minutes|
-| Reading | Git Handbook | Beginner | 10 Minutes |
+| Video | [ What is open source? Explained in Legos ](https://www.youtube.com/watch?v=a8fHgx9mE5U) | Beginner | 5 Minutes
+| Video | [ What is GitHub? ](https://youtu.be/w3jLJU7DT5E ) | Beginner | 5 Minutes |
+| Course | [ Introduction to GitHub ](https://lab.github.com/githubtraining/introduction-to-github) | Beginner | 75 Minutes|
+| Reading | [ Git Handbook ](https://guides.github.com/introduction/git-handbook/) | Beginner | 10 Minutes |
 | | **Day 2** | | |
 | Video | Contributing to Open Source for the first time | Beginner | 20 Minutes |
 | Course | Communicating using Markdown| Beginner | 60 Minutes |
